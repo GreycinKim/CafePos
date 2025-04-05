@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import POSPage from './pages/POSPage'; // ✅ path must match your folder structure
+import POSPage from './pages/POSPage';
 
 function App() {
     return (
